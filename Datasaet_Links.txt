@@ -1,0 +1,5 @@
+PlantVillage: https://www.kaggle.com/datasets/emmarex/plantdisease
+
+PlantDoc: https://www.kaggle.com/datasets/abdulhasibuddin/plant-doc-dataset
+
+SmartAgroTech: https://doi.org/10.17632/zfv4jj7855.1
