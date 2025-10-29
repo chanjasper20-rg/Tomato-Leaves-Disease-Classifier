@@ -1,0 +1,7 @@
+{
+  "best_resnet18": "resnet18",
+  "best_resnet50": "resnet50",
+  "best_densenet121": "densenet121",
+  "best_mobilenet_v2": "mobilenet_v2",
+  "best_efficientnet_b0": "efficientnet_b0"
+}
