@@ -1,9 +1,9 @@
 # Tomato Leaf Disease Classification — Project Guide (CLI + Tools)
 
 This repository provides a command-line interface to **prepare data**, **train**, **evaluate**, **predict**, and **explain** tomato leaf diseases with PyTorch. It also includes a **Streamlit UI**, **calibration utilities**, and a flexible **multi-checkpoint evaluator**. Datasets used are :
-Dataset 1 : https://data.mendeley.com/datasets/zfv4jj7855/1
-Dataset 2 : https://github.com/spMohanty/PlantVillage-Dataset
-Dataset 3 : https://data.mendeley.com/datasets/ngdgg79rzb/1
+<br/>Dataset 1 : https://data.mendeley.com/datasets/zfv4jj7855/1
+<br/>Dataset 2 : https://github.com/spMohanty/PlantVillage-Dataset
+<br/>Dataset 3 : https://data.mendeley.com/datasets/ngdgg79rzb/1
 
 > Run commands from the **project root** (the folder containing `src/`).  
 > In this repo, the CLI entry module is `src/tomato_ide.py`, so use:
